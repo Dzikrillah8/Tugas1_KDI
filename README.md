@@ -1,13 +1,14 @@
 # Enkripsi Asimetris RSA
 
-implementasi sederhana dari algoritma enkripsi RSA menggunakan bahasa C++ 
+Implementasi sederhana dari algoritma enkripsi RSA menggunakan bahasa C++ 
 di mana program melakukan proses utama berupa:
 1. Key Generation (public key & private key)
 2. Enkripsi plaintext
 3. Dekripsi ciphertext
 
 Cara Menjalankan Program:
-pengguna akan diminta memasukkan beberapa nilai yaitu 
+pengguna akan diminta memasukkan beberapa nilai yaitu
+
 1. Memasukkan dua bilangan prima (p dan q)
    
 2. Selanjutnya program akan menghitung
